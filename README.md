@@ -4,4 +4,4 @@
 
 ### Requirements : Raspberry pi, motion sensor and camera module
 
-### details in the report
+### details in the report.docx
